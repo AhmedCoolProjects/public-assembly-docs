@@ -18,7 +18,7 @@
     --ifm-color-primary-darker: #000000;
     --ifm-color-primary-darkest: #000000;
     --ifm-code-font-size: 95%;
-    --ifm-navbar-link-hover-color: #000000;
+    --ifm-navbar-link-hover-color: #FF89DE;
     --ifm-menu-color: #808080;
     --ifm-navbar-background-color: rgba(255, 255, 255, 0.95);
     --ifm-font-family-base: 'Inter';
@@ -41,7 +41,7 @@
     --ifm-color-primary-dark: #ffff;
     --ifm-color-primary-darker: #ffff;
     --ifm-color-primary-darkest: #ffff;
-    --ifm-navbar-link-hover-color: #f2f2f2;
+    --ifm-navbar-link-hover-color: #FF89DE;
     --ifm-navbar-background-color: rgba(20, 20, 20, 0.8);
     --ifm-table-stripe-background: rgba(255, 255, 255, 0.03);
     --docsearch-hit-active-color: #000000;
